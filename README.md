@@ -19,4 +19,4 @@ The repo includes an `index.html` file (so it can render a web page), two GitHub
 
 Core TFX pipeline authoring SDK, with a minimal set of dependencies.
 """
-PACKAGE_NAME = 'ml-pipelines-sdk'
+PACKAGE_NAME = 'ml-pipelines-sdk
